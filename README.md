@@ -1,7 +1,7 @@
 JMIDIGen
 ========
 
-A midi generator which can automatically compose songs
+A midi generator which can automatically compose songs.
 
 ## How to build
 
